@@ -49,5 +49,5 @@ body:
       options:
         - label: I have checked the FAQ page and couldn't find an answer to my question
           required: true
-        - label: I understand that for urgent support, I can email timeguardianllc@gmail.com directly
+        - label: I understand that for urgent support, I can email support@timeguardian.cc directly
           required: true 
