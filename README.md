@@ -9,7 +9,7 @@ This repository is dedicated to collecting bug reports and feature requests for 
 
 ## Useful Links
 
-- 🌐 [Chrome Web Store](https://chrome.google.com/webstore/detail/time-guardian)
+- 🌐 [Chrome Web Store](https://chromewebstore.google.com/detail/time-guardian/oknaomnpfngmcflhbkfgjhcebnclload)
 - 📧 [Contact Support](mailto:support@timeguardian.cc)
 
 ## Note
